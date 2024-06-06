@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "http://example.com/John",
+    "https://schema.org/name": "John",
+    "https://schema.org/familyName": "Doe",
+    "@type": "https://schema.org/Person"
+  },
+  {
+    "@id": "http://example.com/Jason",
+    "https://schema.org/name": "Jason",
+    "@type": "https://schema.org/Person"
+  },
+  {
+    "@id": "http://example.com/James",
+    "https://schema.org/name": "James",
+    "@type": "https://schema.org/Person"
+  },
+  {
+    "@id": "http://example.com/Jimathy",
+    "https://schema.org/name": "Jimathy",
+    "https://schema.org/additionalName": "Jarvis",
+    "@type": "https://schema.org/Person"
+  }
+]
