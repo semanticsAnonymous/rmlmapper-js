@@ -1,4 +1,6 @@
-/node_modules
 .npmrc
-/coverage
-/dist
+.eslintcache
+dist
+.DS_Store
+node_modules/
+coverage/
